@@ -757,7 +757,7 @@ table td {
 .gallery .image-link .image-container {
   position: relative;
   width: 100%; /* or specific width */
-  height: 300px; /* adjust based on your preference */
+  height: 260px; /* adjust based on your preference */
   background-size: cover;
   background-position: center;
   display: flex;
