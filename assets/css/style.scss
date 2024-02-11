@@ -8,8 +8,8 @@
 
   .gallery {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
   }
   
   .gallery-image { /* This matches the class in your HTML */
@@ -20,7 +20,7 @@
   .gallery .image-link .image-container {
     position: relative;
     width: 100%; /* or specific width */
-    height: 260px; /* adjust based on your preference */
+    height: 400px; /* adjust based on your preference */
     background-size: cover;
     background-position: center;
     display: flex;
