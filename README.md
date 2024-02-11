@@ -1,1 +1,0 @@
-# rosalindpan.github.io
