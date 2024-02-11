@@ -11,8 +11,7 @@ I graduated from the University of Chicago in 2022, where I majored in Biologica
 
 I am broadly interested in using quantitative methods to study biological phenomena. In my current research in the Phillips lab, I combine statistical physics and microbiology to examine the mechanisms underlying transcriptional regulation. 
 
-When I'm not in the lab, I enjoy painting, making amigurumi, playing guitar,
-and going to concerts! My favourite band is a rock band from Manchester, England
+When I'm not in the lab, I enjoy [painting](https://rosalindpan.com/art/), making amigurumi, playing guitar, and going to concerts! My favourite band is a rock band from Manchester, England
 called [The 1975](https://the1975.com/). Check out their music <3
 
 

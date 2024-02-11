@@ -1,13 +1,15 @@
 ---
-layout: page
+layout: default
 title: Art
 permalink: /art/
 ---
 
 <div class="gallery">
-    {% for file in site.static_files %}
-      {% if file.path contains 'assets/images' and (file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif') %}
-        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ file.basename }}" class="gallery-image">
-      {% endif %}
+    {% for image in site.data.images %}
+      <a href="/artpages/{{ image.filename | remove: '.jpeg' | remove: '.png' | remove: '.gif' | append: '.html' }}" class="image-link">
+        <div class="image-container" style="background-image: url('/assets/images/{{ image.filename }}');">
+          <span class="image-title">{{ image.title }}</span>
+        </div>
+      </a>
     {% endfor %}
   </div>
