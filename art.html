@@ -1,0 +1,13 @@
+---
+layout: page
+title: Art
+permalink: /art/
+---
+
+<div class="gallery">
+    {% for file in site.static_files %}
+      {% if file.path contains 'assets/images' and (file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif') %}
+        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ file.basename }}" class="gallery-image">
+      {% endif %}
+    {% endfor %}
+  </div>

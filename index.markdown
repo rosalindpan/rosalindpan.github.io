@@ -5,21 +5,15 @@
 layout: home
 ---
 
-Hello there! My name is Rosalind :)
+Hello there! My name is Rosalind :) I'm a graduate student in the lab of [Rob Phillips](https://www.rpgroup.caltech.edu/) at California Institute of Technology.
 
-I'm a graduate student in the lab of Rob
-Phillips at California Institute of Technology. I graduated from the University
- of Chicago in 2022, where I majored in Biological Sciences and Computational
- and Applied Mathematics.
+I graduated from the University of Chicago in 2022, where I majored in Biological Sciences and Computational and Applied Mathematics. At UChicago, I worked with [D. Allan Drummond](https://drummondlab.org/) on the evolutionary analysis of unalignable protein sequences.
 
-I am broadly interested in using quantitative methods in the field of
-mathematics and physics to study biological phenomena. In my current research in the Phillips lab,
-I combine statistical physics and microbiology to examine the mechanisms underlying
-transcriptional regulation. 
+I am broadly interested in using quantitative methods to study biological phenomena. In my current research in the Phillips lab, I combine statistical physics and microbiology to examine the mechanisms underlying transcriptional regulation. 
 
 When I'm not in the lab, I enjoy painting, making amigurumi, playing guitar,
 and going to concerts! My favourite band is a rock band from Manchester, England
-called [The 1975](https://the1975.com/). Check out their music!
+called [The 1975](https://the1975.com/). Check out their music <3
 
 
 ## Papers

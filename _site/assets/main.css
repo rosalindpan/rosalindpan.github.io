@@ -647,3 +647,13 @@ table td {
 }
 
 /*# sourceMappingURL=main.css.map */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.gallery-image {
+  width: 100%;
+  height: auto;
+}
