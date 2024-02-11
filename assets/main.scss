@@ -1,0 +1,15 @@
+---
+---
+
+@import "minima";
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .gallery-image { /* This matches the class in your HTML */
+    width: 100%;
+    height: auto;
+  }
