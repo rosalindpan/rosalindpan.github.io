@@ -776,4 +776,9 @@ table td {
   display: block;
 }
 
+.float-right {
+  width: 60%;
+  float: right;
+}
+
 /*# sourceMappingURL=style.css.map */
