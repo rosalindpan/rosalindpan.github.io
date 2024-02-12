@@ -20,4 +20,4 @@ called [The 1975](https://the1975.com/). Check out their music <3
 
 - Shichen Liu, **Rosalind W. Pan**, Heun Jin Lee, Shahriar Shadkhoo, Fan Yang, Chunhe Li, Zijie Qu, and Matt Thomson. 2024. “Force Propagation in Active Cytoskeletal Networks.” arXiv [cond-Mat.soft]. [http://arxiv.org/abs/2401.04217](http://arxiv.org/abs/2401.04217).
 
-- Cat Triandafillou\*, **Rosalind W. Pan\***, Aaron Dinner, D. Allan Drummond (\*contributed equally). 2023. Pervasive, conserved secondary structure in highly charged protein regions. PLOS Computational Biology 19(10): e1011565.[https://doi.org/10.1371/journal.pcbi.1011565](https://doi.org/10.1371/journal.pcbi.1011565)
+- Cat Triandafillou\*, **Rosalind W. Pan\***, Aaron Dinner, D. Allan Drummond. (\*contributed equally). 2023. Pervasive, conserved secondary structure in highly charged protein regions. PLOS Computational Biology 19(10): e1011565. [https://doi.org/10.1371/journal.pcbi.1011565](https://doi.org/10.1371/journal.pcbi.1011565).
