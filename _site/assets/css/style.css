@@ -782,4 +782,20 @@ table td {
   float: right;
 }
 
+a:link {
+  color: #ff6e99; /* Color of links */
+}
+
+a:visited {
+  color: #ff6e99; /* Color of visited links */
+}
+
+a:hover {
+  color: #ff6e99; /* Color when mouse hovers */
+}
+
+a:active {
+  color: #ff6e99; /* Color when link is clicked */
+}
+
 /*# sourceMappingURL=style.css.map */
