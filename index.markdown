@@ -16,7 +16,7 @@ called [The 1975](https://the1975.com/). Check out their music <3
 
 
 ## Papers
-- Tom Röschinger, Heun Jin Lee, **Rosalind W. Pan**, Grace Solini, Kian Faizi, Baiyi Quan, Tsui Fen Chou, Madhav Mani, Stephen Quake, Rob Phillips. 2025. “The Environment-Dependent Regulatory Landscape of the E. coli Genome.” arXiv. [https://doi.org/10.48550/arXiv.2505.08764](https://doi.org/10.48550/arXiv.2505.08764).
+- Tom Röschinger, Heun Jin Lee, **Rosalind W. Pan**, Grace Solini, Kian Faizi, Baiyi Quan, Tsui Fen Chou, Madhav Mani, Stephen Quake, Rob Phillips. 2025. “The Environment-Dependent Regulatory Landscape of the *E. coli* Genome.” arXiv. [https://doi.org/10.48550/arXiv.2505.08764](https://doi.org/10.48550/arXiv.2505.08764).
 
 - **Rosalind W. Pan**, Tom Röschinger, Kian Faizi, Hernan G. Garcia, and Rob Phillips. 2024. “Deciphering regulatory architectures of bacterial promoters from synthetic expression patterns.” PLOS Computational Biology 20(12): e1012697. [https://doi.org/10.1371/journal.pcbi.1012697](https://doi.org/10.1371/journal.pcbi.1012697).
 
