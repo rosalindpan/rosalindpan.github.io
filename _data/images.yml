@@ -1,21 +1,36 @@
-- filename: 01-home.jpeg
+- filename: farewell.jpg
   order: 1
-  title: "When the rectangle glows"
-- filename: 02-lapoesie.jpeg
+  title: "Farewell (beyond the empty space)"
+- filename: spacecadet.jpg
   order: 2
-  title: "La poésie est dans la rue"
-- filename: 03-flames.jpeg
+  title: "Space cadet"
+- filename: danceofmatter.jpg
   order: 3
-  title: "Autumn flames"
-- filename: 04-floating.jpeg
+  title: "The dance of matter"
+- filename: lookingglass.jpg
   order: 4
-  title: "like you, floating into me"
-- filename: 05-dlid.jpeg
+  title: "Through the looking glass"
+- filename: notallthestars.jpg
   order: 5
-  title: "Drive Like I Do"
-- filename: 06-gladlybeyond.jpeg
+  title: "Not all the stars are silent"
+- filename: itllpass.jpg
   order: 6
-  title: "&quot;somewhere i have never travelled,<br />gladly beyond&quot;"
-- filename: 07-28.jpeg
+  title: "&quot;It'll pass&quot;"
+- filename: 28.jpeg
   order: 7
   title: "28"
+- filename: gladlybeyond.jpeg
+  order: 8
+  title: "&quot;somewhere i have never travelled,<br />gladly beyond&quot;"
+- filename: floating.jpeg
+  order: 9
+  title: "like you, floating into me"
+- filename: lapoesie.jpeg
+  order: 10
+  title: "La poésie est dans la rue"
+- filename: flames.jpeg
+  order: 11
+  title: "Autumn flames"
+- filename: home.jpeg
+  order: 12
+  title: "When the rectangle glows"

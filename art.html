@@ -6,7 +6,7 @@ permalink: /art/
 
 <div class="gallery">
     {% for image in site.data.images %}
-      <a href="/artpages/{{ image.filename | remove: '.jpeg' | remove: '.png' | remove: '.gif' | append: '.html' }}" class="image-link">
+      <a href="/artpages/{{ image.filename | remove: '.jpeg' | remove: '.jpg' | remove: '.png' | remove: '.gif' | append: '.html' }}" class="image-link">
         <div class="image-container" style="background-image: url('/assets/images/{{ image.filename }}');">
           <span class="image-title">{{ image.title }}</span>
         </div>
