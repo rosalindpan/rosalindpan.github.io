@@ -1,36 +1,36 @@
-- filename: farewell.jpg
+- filename: 01-farewell.jpg
   order: 1
   title: "Farewell (beyond the empty space)"
-- filename: spacecadet.jpg
+- filename: 02-spacecadet.jpg
   order: 2
   title: "Space cadet"
-- filename: danceofmatter.jpg
+- filename: 03-danceofmatter.jpg
   order: 3
   title: "The dance of matter"
-- filename: lookingglass.jpg
+- filename: 04-lookingglass.jpg
   order: 4
   title: "Through the looking glass"
-- filename: notallthestars.jpg
+- filename: 05-notallthestars.jpg
   order: 5
   title: "Not all the stars are silent"
-- filename: itllpass.jpg
+- filename: 06-itllpass.jpg
   order: 6
   title: "&quot;It'll pass&quot;"
-- filename: 28.jpeg
+- filename: 07-28.jpeg
   order: 7
   title: "28"
-- filename: gladlybeyond.jpeg
+- filename: 08-gladlybeyond.jpeg
   order: 8
   title: "&quot;somewhere i have never travelled,<br />gladly beyond&quot;"
-- filename: floating.jpeg
+- filename: 09-floating.jpeg
   order: 9
   title: "like you, floating into me"
-- filename: lapoesie.jpeg
+- filename: 10-lapoesie.jpeg
   order: 10
   title: "La poésie est dans la rue"
-- filename: flames.jpeg
+- filename: 11-flames.jpeg
   order: 11
   title: "Autumn flames"
-- filename: home.jpeg
+- filename: 12-home.jpeg
   order: 12
   title: "When the rectangle glows"
